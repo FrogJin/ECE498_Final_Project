@@ -1,0 +1,6 @@
+Manufacturer: samsung
+Model: SM-J327T1
+Serial: 4200003ad41d6409
+First Sensor Event Millisecond: 1525320434915
+Sensor Event Timestamp Unit: NanoSecond
+
