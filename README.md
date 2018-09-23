@@ -7,3 +7,4 @@ Accelerometer, Gyroscope and Magnetic Field data are colleted from the phone car
 The code will first find out and remove the bias from the data. Then it will use the gravity and the gyroscope data to
 compute the rotational matrix at each timestamp. Finally, the local accelerometer data will be projected into a global
 framework, which is used to calculate the final distance walked.
+![](https://github.com/FrogJin/ECE498_Final_Project/blob/master/Ex_4.5m_8Steps/4.5m_8steps.jpg)
